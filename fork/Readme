@@ -1,0 +1,30 @@
+# ☕ Café Utility System
+
+A multi-purpose Python project to help manage your café operations with ease. This system includes:
+
+- A Café Management System (`cafe_management.py`)
+- A QR Code Generator (`qr.py`)
+- A YouTube Video Downloader (`download.py`)
+
+---
+
+## 🗂 Project Files
+
+| File                | Description                                                  |
+|---------------------|--------------------------------------------------------------|
+| `cafe_management.py`| GUI system for managing café orders, billing, and inventory. |
+| `qr.py`             | Generates QR codes for menus, payments, or links.            |
+| `download.py`       | Downloads YouTube videos (for music/ads/screens).            |
+| `requirements.txt`  | Python dependencies to run the scripts.                      |
+| `LICENSE`           | Open-source license (MIT).                                   |
+| `README.md`         | You're reading it :)                                         |
+
+---
+
+## 💻 Installation
+
+1. Clone or download this repository.
+2. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
