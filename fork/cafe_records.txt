@@ -1,0 +1,78 @@
+********* Cafe Bill #TVCYVF36 *********
+Customer Name: Hritik Roshan
+Customer Address: Jaipur
+Customer Contact Number: 9672074157
+Item           Qty       Price     Total     
+=============================================
+Tea            1         1.75      1.75      
+Sandwich       3         5.0       15.00     
+=============================================
+Subtotal                           16.75
+Tax                                1.17
+Total Due                          17.92
+=============================================
+****************************
+
+********* Cafe Bill #CKAAFOXE *********
+Customer Name: Juhi
+Customer Address: Bihar
+Customer Contact Number: 8596742564
+Item           Qty       Price     Total     
+=============================================
+Juice          6         2.0       12.00     
+=============================================
+Subtotal                           12.00
+Tax                                0.84
+Total Due                          12.84
+=============================================
+****************************
+
+********* Cafe Bill #QXGIGF21 *********
+Customer Name: Deepak
+Customer Address: Jaipur
+Customer Contact Number: 7414259568
+Item           Qty       Price     Total     
+=============================================
+Tea            4         1.75      7.00      
+Sandwich       5         5.0       25.00     
+=============================================
+Subtotal                           32.00
+Tax                                2.24
+Total Due                          34.24
+=============================================
+****************************
+
+********* Cafe Bill *********
+Bill No.:UXYSF1JF
+Date: 2024-07-15 21:22:30
+Customer Name: jay
+Customer Address: bp
+Customer Contact Number: 8574962416
+Item           Qty       Price     Total     
+=============================================
+Tea            4         1.75      7.00      
+Coffee         2         2.5       5.00      
+=============================================
+Subtotal                           12.00
+Tax                                0.84
+Total Due                          12.84
+=============================================
+****************************
+
+********* Cafe Bill *********
+Bill No.:NP5IJYZ1
+Date: 2025-06-05 08:22:37
+Customer Name: Deepak Guatam
+Customer Address: Dholpur
+Customer Contact Number: 9875772746
+Item           Qty       Price     Total     
+=============================================
+Coffee         1         2.5       2.50      
+Sandwich       2         5.0       10.00     
+=============================================
+Subtotal                           12.50
+Tax                                0.88
+Total Due                          13.38
+=============================================
+****************************
+
